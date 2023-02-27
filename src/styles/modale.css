@@ -1,0 +1,61 @@
+.modale-window {
+  background-color: white;
+  border-radius: 2px;
+  position: fixed;
+  border: solid 1px #ff9900;
+  z-index: 3;
+}
+.modale-window-header {
+  background-color: #ff9900;
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+  align-items: center;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+}
+.modale-window-title {
+  padding: 5px;
+  color: white;
+}
+.modale-window-close {
+  height: 30px;
+  width: 30px;
+  background-color: #ff9900;
+  color: white;
+  border: none;
+}
+.modale-window-close:hover {
+  background-color: red;
+  cursor: pointer;
+}
+.modale-window-main {
+  margin: 5px;
+  color: black
+}
+.modale-window-buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: nowrap;
+  align-content: center;
+}
+
+.button-modale {
+  width: 100px;
+  height: 25px;
+  border: none;
+  border: solid 1px #ff9900;
+  background-color: #ff9900;
+  color: white;
+  border-radius: 3px;
+  margin: 5px;
+}
+.button-modale:hover {
+  background-color: white;
+  color: #ff9900;
+  cursor: pointer;
+}
+
