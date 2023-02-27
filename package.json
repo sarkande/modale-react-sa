@@ -8,6 +8,10 @@
     "start": "webpack --watch",
     "build": "webpack"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sarkande/modale-react-sa.git"
+},
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.21.0",
