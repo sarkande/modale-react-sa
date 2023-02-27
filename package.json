@@ -1,6 +1,6 @@
 {
   "name": "modale-react-sa",
-  "version": "1.2.15",
+  "version": "1.2.16",
   "description": "React Component Modale",
   "author": "Allan Perez Gonzalez",
   "main": "dist/main.js",
@@ -11,7 +11,7 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/sarkande/modale-react-sa.git"
-},
+  },
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.21.0",
